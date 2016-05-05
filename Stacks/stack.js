@@ -1,5 +1,5 @@
 //Stack.js
-//FIFO Structure 
+//LIFO Structure 
 var Stack = (function() {
 	function Stack() {
 		this.dataStore = {};
